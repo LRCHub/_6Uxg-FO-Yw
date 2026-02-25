@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "プレイバック part 2",
+  "base_artist": "Momoe Yamaguchi",
+  "createdAt": "2026-02-25T15:05:39.656135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プレイバック",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_プレイバック_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プレイバック [Playback]",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/02_プレイバック_[Playback]_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プレイバック part 2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/03_プレイバック_part_2_山口_百恵.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プレイバック Part 2",
+      "artist": "山口百恵",
+      "has_synced": false,
+      "path": "select/04_プレイバック_Part_2_山口百恵.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プレイバック Part 2",
+      "artist": "Momoe Yamaguchi",
+      "has_synced": true,
+      "path": "select/05_プレイバック_Part_2_Momoe_Yamaguchi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プレイバック part2",
+      "artist": "Momoe Yamaguchi",
+      "has_synced": true,
+      "path": "select/06_プレイバック_part2_Momoe_Yamaguchi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プレイバック Part2",
+      "artist": "山口百恵",
+      "has_synced": true,
+      "path": "select/07_プレイバック_Part2_山口百恵.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プレイバック part 2",
+      "artist": "山口百惠",
+      "has_synced": true,
+      "path": "select/08_プレイバック_part_2_山口百惠.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プレイバックpart2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_01_プレイバックpart2_山口_百恵.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "プレイバック part 2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_02_プレイバック_part_2_山口_百恵.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "プレイバックpart2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_03_プレイバックpart2_山口_百恵.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "プレイバックPart2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_04_プレイバックPart2_山口_百恵.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "プレイバックPart2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_05_プレイバックPart2_山口_百恵.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "プレイバックPart2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_06_プレイバックPart2_山口_百恵.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "プレイバック part2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_07_プレイバック_part2_山口_百恵.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "プレイバック part 2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_08_プレイバック_part_2_山口_百恵.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "プレイバック part2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_09_プレイバック_part2_山口_百恵.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "プレイバック Part2",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/pl_10_プレイバック_Part2_山口_百恵.txt"
+    }
+  ]
+}
